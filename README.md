@@ -1,5 +1,10 @@
 # DevTest
 
+![Screenshot 2024-08-14 at 12 01 37 AM](https://github.com/user-attachments/assets/cae04cda-9329-4e44-b520-a54d2346ac80)
+
+
+![Screenshot 2024-08-14 at 12 02 07 AM](https://github.com/user-attachments/assets/76b54181-0710-464b-b188-4fa570454d33)
+
 
 
 ## Setup Instructions
