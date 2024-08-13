@@ -30,7 +30,7 @@ Follow these steps to set up the project on your local machine:
 
 5. **  Run a app.py file in terminal **
    ```
-   Streamlit run app.py
+  streamlit run app.py
    
    ```
 
